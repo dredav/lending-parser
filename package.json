@@ -41,6 +41,6 @@
   },
   "homepage": "https://github.com/lendingwallet/lending-parser#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@lendingwallet"
   }
 }
